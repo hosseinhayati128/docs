@@ -30,3 +30,6 @@ the language mailing list, and submit a pull request.
 ## License
 
 [Apache License 2.0](LICENSE)
+
+guide to convert to tf2
+https://github.com/tensorflow/docs/blob/master/site/en/guide/upgrade.ipynb
