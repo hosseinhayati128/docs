@@ -36,3 +36,6 @@ https://github.com/tensorflow/docs/blob/master/site/en/guide/upgrade.ipynb
 
 you may need this :  
 https://github.com/matterport/Mask_RCNN/issues/1070#issuecomment-619059969
+
+and this :  
+https://github.com/matterport/Mask_RCNN/issues/2252
