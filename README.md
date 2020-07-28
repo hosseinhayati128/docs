@@ -31,5 +31,8 @@ the language mailing list, and submit a pull request.
 
 [Apache License 2.0](LICENSE)
 
-guide to convert to tf2
+guide to convert to tf2  
 https://github.com/tensorflow/docs/blob/master/site/en/guide/upgrade.ipynb
+
+you may need this :  
+https://github.com/matterport/Mask_RCNN/issues/1070#issuecomment-619059969
