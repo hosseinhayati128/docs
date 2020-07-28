@@ -38,4 +38,4 @@ you may need this :
 https://github.com/matterport/Mask_RCNN/issues/1070#issuecomment-619059969
 
 and this :  
-https://github.com/matterport/Mask_RCNN/issues/2252
+https://github.com/matterport/Mask_RCNN/issues/2252#issuecomment-654019764
